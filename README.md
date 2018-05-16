@@ -4,7 +4,7 @@ In order to facilitate communication and timely exchange of matlab code and ques
 
 ## Specific steps
 1.[Github](https://github.com/) Official  Website **Register** Account  
-2.[star](https://www.oschina.net/question/119167_129734 "CLick "star" botton to star") Our [Project](https://github.com/x1184/Mat)  
+2.[star](https://www.oschina.net/question/119167_129734 "CLick \"star\" botton to star") Our [Project](https://github.com/x1184/Mat)  
 3. Download the [client](https://desktop.github.com/) login  
 4 configure the local synchronization folder  
 5.Ctrl+Shift+O import to local warehouse    
@@ -21,7 +21,7 @@ Write your m code, then Publish Branch
 1.[Github](https://github.com/)官网**注册**账号   
 2.[star](https://www.oschina.net/question/119167_129734 "CLick "star" botton to star")我们的[项目](https://github.com/x1184/Mat)  
 3.下载[客户端](https://desktop.github.com/)然后登陆  
-4.配置本地同步文件夹     
+4.配置本地同步文件夹         
 5.Ctrl+Shift+O导入到本地仓库    
 6.编写你的m代码，然后Publish Branch    
 ![](https://i.imgur.com/c0X2wRQ.png)
